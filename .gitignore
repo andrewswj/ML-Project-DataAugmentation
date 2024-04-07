@@ -1,0 +1,5 @@
+cifar10/**
+filtered_cifar10_train/**
+test**
+.venv/**
+__pycache__/**
